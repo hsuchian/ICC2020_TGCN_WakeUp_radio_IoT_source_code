@@ -1,0 +1,9 @@
+S2_partition_prim_mod                    : middle point      wrong closet initial point chossing (closet to previous set) (these two has the same performance)
+S2_partition_prim_final                  : middle point      choose initial point closet to current set center     (these two has the same performance)
+S2_partition_prim_final_correct_center   : correct center    choose initial point closet to current set center
+S2_partition_prim_final_include_extra    : correct center    choose initial point closet to current set center    include extra point in the current subgroup
+S2_partition_prim_final_new_initial      : correct center    choose initial point fartest to the AREA center      include extra point in the current subgroup
+
+
+SimWakeUpRadio_ori    old version
+SimWakeUpRadio        new version
